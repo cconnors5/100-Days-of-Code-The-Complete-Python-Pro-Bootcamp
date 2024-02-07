@@ -14,7 +14,6 @@ bootcamp is an intensive programming course that covers a wide range of topics i
 2. [About the Course](#about-the-course)
 3. [Syllabus](#-beginner)
 4. [Resources](#resources)
-5. [Acknowledgements](#acknowledgements)
 
 
 ## Getting Started
@@ -56,10 +55,10 @@ For more information about the course and to enroll, visit [Angela Yu's website]
 ## 👨🏻‍🎓 Beginner
 - [x] [Day 01](day01): Working with Variables in Python to Manage Data
 - [x] [Day 02](day02): Understanding Data Types and How to Manipulate Strings
-- [x] [Day 03](day03): Control Flow and Logical Operators
-- [x] [Day 04](day04): Randomisation and Python Lists
-- [x] [Day 05](day05): Python Loops
-- [x] [Day 06](day06): Python Functions & Karel
+- [] [Day 03](day03): Control Flow and Logical Operators
+- [] [Day 04](day04): Randomisation and Python Lists
+- [] [Day 05](day05): Python Loops
+- [] [Day 06](day06): Python Functions & Karel
 - [] [Day 07](day07): Hangman
 - [] [Day 08](day08): Function Parameters & Caesar Cipher
 - [] [Day 09](day09): Dictionaries, Nesting and the Secret Auction
@@ -172,11 +171,4 @@ For more information about the course and to enroll, visit [Angela Yu's website]
 * [Angela Yu Course link](https://www.udemy.com/course/100-days-of-code/)
 
 
-## Acknowledgements
 
-Special thanks to Angela Yu for creating this amazing bootcamp and providing valuable resources for learning Python.
-
-Feel free to clone this repository and use it as a template for your own "100 Days of Python" journey. Happy coding!
-🐍🚀
-
-<p align="center"><a href="https://www.buymeacoffee.com/ranitmanik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
