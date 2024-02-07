@@ -37,11 +37,11 @@ _To explore into this repository, follow these steps:_
 - **push your changes** to this branch :
 
    ```bash
-    git push --set-upstream origin DEV/{your_name}/{in which you working on}
+    git push --set-upstream origin DEV/{your_name}/{where you're working}
 
 ## About the Course
 
-The "100 Days of Python" bootcamp by Angela Yu is a comprehensive course designed to take learners from Python basics to
+The "100 Days of Code: The Complete Python Pro Bootcamp" bootcamp by Angela Yu is a comprehensive course designed to take learners from Python basics to
 advanced topics. The course focuses on hands-on coding and includes a variety of projects to reinforce concepts.
 
 For more information about the course and to enroll, visit [Angela Yu's website](https://www.appbrewery.co/).
