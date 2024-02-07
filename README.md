@@ -1,5 +1,5 @@
 <div align="center">
-<h1> 100 Days of Python Bootcamp by Angela Yu</h1>
+<h1> 100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu</h1>
 </div>
 
 
