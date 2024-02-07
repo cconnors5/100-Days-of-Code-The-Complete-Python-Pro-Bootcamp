@@ -2,7 +2,6 @@
 <h1> 100 Days of Python Bootcamp by Angela Yu</h1>
 </div>
 
-![Course Logo](logo.png)
 
 
 This repository contains code and projects completed during the "100 Days of Python" bootcamp by Angela Yu. This
