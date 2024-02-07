@@ -47,9 +47,6 @@ advanced topics. The course focuses on hands-on coding and includes a variety of
 For more information about the course and to enroll, visit [Angela Yu's website](https://www.appbrewery.co/).
 
 
-![wallpaper](wallpaper.png)
-
-
 
 ## 👨🏻‍🎓 Beginner
 - [x] [Day 01](day01): Working with Variables in Python to Manage Data
