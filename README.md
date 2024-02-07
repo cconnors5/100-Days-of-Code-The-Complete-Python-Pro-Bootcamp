@@ -24,12 +24,12 @@ _To explore into this repository, follow these steps:_
 - **Clone** the repository:
 
    ```bash
-   git clone https://github.com/RanitManik/100-days-of-python.git
+   git clone https://github.com/cconnors5/100-days-of-python.git
 
 - **Add This repo as Remote**  :
 
    ```bash
-   git remote add origin https://github.com/RanitManik/100-days-of-python.git
+   git remote add origin https://github.com/cconnors5/100-days-of-python.git
 
 - **Create and Switch to Your Branch** :
 
@@ -60,14 +60,14 @@ For more information about the course and to enroll, visit [Angela Yu's website]
 - [x] [Day 04](day04): Randomisation and Python Lists
 - [x] [Day 05](day05): Python Loops
 - [x] [Day 06](day06): Python Functions & Karel
-- [Day 07](day07): Hangman
-- [Day 08](day08): Function Parameters & Caesar Cipher
-- [Day 09](day09): Dictionaries, Nesting and the Secret Auction
-- [Day 10](day10): Function Return Values and the Calculator Project
-- [Day 11](day11): Blackjack Capstone Project
-- [Day 12](day12): Scope and Namespacing in Python
-- [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
-- [Day 14](day14): Higher Lower Game Project
+- [] [Day 07](day07): Hangman
+- [] [Day 08](day08): Function Parameters & Caesar Cipher
+- [] [Day 09](day09): Dictionaries, Nesting and the Secret Auction
+- [] [Day 10](day10): Function Return Values and the Calculator Project
+- [] [Day 11](day11): Blackjack Capstone Project
+- [] [Day 12](day12): Scope and Namespacing in Python
+- [] [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
+- [] [Day 14](day14): Higher Lower Game Project
 
 ## 🏋🏻‍♂️ Intermediate
 - [Day 15](day15): Local Development Environment Setup & the Coffee Machine Project
